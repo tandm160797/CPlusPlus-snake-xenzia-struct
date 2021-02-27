@@ -1,0 +1,19 @@
+﻿Build started 11/19/2019 6:42:09 PM.
+     1>Project "C:\Temp\GC - Snake Xenzia - Struct\GC - Snake Xenzia - Struct\GC - Snake Xenzia - Struct.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Console.cpp Game.cpp main.cpp
+         main.cpp
+         Game.cpp
+     1>c:\temp\gc - snake xenzia - struct\gc - snake xenzia - struct\game.cpp(53): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+         Console.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Temp\GC - Snake Xenzia - Struct\Debug\GC - Snake Xenzia - Struct.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Temp\GC - Snake Xenzia - Struct\Debug\GC - Snake Xenzia - Struct.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Temp\GC - Snake Xenzia - Struct\Debug\GC - Snake Xenzia - Struct.lib" /MACHINE:X86 Debug\Console.obj
+         Debug\Game.obj
+         Debug\main.obj
+         GC - Snake Xenzia - Struct.vcxproj -> C:\Temp\GC - Snake Xenzia - Struct\Debug\GC - Snake Xenzia - Struct.exe
+     1>Done Building Project "C:\Temp\GC - Snake Xenzia - Struct\GC - Snake Xenzia - Struct\GC - Snake Xenzia - Struct.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.06
